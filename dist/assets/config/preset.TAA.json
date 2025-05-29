@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "type": "TAA",
+  "pass": {
+    "feedBack": {
+      "x": 0.8,
+      "y": 0.9,
+      "isVector2": true
+    },
+    "enabled": true
+  },
+  "resources": {
+    "geometries": {},
+    "materials": {},
+    "textures": {},
+    "images": {},
+    "shapes": {},
+    "skeletons": {},
+    "animations": {}
+  }
+}

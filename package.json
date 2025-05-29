@@ -1,0 +1,44 @@
+{
+  "name": "vanilla-typescript",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript example starter project",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && copyfiles ./assets/**/* dist",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/three": "^0.139.0",
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "typescript": "4.4.4",
+    "vite": "^4.5.14",
+    "vite-plugin-static-copy": "^0.13.1"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "staticFiles": {
+    "staticPath": [
+      {
+        "staticPath": "assets",
+        "staticOutDir": "assets"
+      }
+    ]
+  },
+  "type": "module",
+  "dependencies": {
+    "copyfiles": "^2.4.1",
+    "gsap": "^3.12.4",
+    "three": "^0.166.1"
+  }
+}

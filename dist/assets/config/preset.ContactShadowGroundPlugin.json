@@ -1,0 +1,83 @@
+{
+  "contactShadows": true,
+  "blurAmount": 2.435819993959529,
+  "shadowScale": 1,
+  "shadowHeight": 1,
+  "material": {
+    "uuid": "bdee18f3-e8bc-4df0-8a9e-ba4632ca5eaf",
+    "resource": "materials"
+  },
+  "visible": true,
+  "size": 8,
+  "yOffset": 0,
+  "renderToDepth": true,
+  "tonemapGround": true,
+  "limitCameraAboveGround": false,
+  "type": "ContactShadowGroundPlugin",
+  "resources": {
+    "geometries": {},
+    "materials": {
+      "bdee18f3-e8bc-4df0-8a9e-ba4632ca5eaf": {
+        "metadata": {
+          "version": 4.5,
+          "type": "Material",
+          "generator": "Material.toJSON"
+        },
+        "uuid": "bdee18f3-e8bc-4df0-8a9e-ba4632ca5eaf",
+        "type": "MeshStandardMaterial2",
+        "name": "BaseGroundMaterial",
+        "color": 11119017,
+        "roughness": 1,
+        "metalness": 0,
+        "sheen": 0,
+        "sheenColor": 0,
+        "sheenRoughness": 1,
+        "emissive": 0,
+        "specularIntensity": 1,
+        "specularColor": 16777215,
+        "clearcoat": 0,
+        "clearcoatRoughness": 0,
+        "iridescence": 0,
+        "iridescenceIOR": 1.3,
+        "iridescenceThicknessRange": [
+          100,
+          400
+        ],
+        "envMapIntensity": 1,
+        "reflectivity": 0.5,
+        "transmission": 0,
+        "thickness": 0,
+        "attenuationDistance": 0,
+        "attenuationColor": 16777215,
+        "transparent": true,
+        "depthFunc": 3,
+        "depthTest": true,
+        "depthWrite": true,
+        "colorWrite": true,
+        "stencilWrite": false,
+        "stencilWriteMask": 255,
+        "stencilFunc": 519,
+        "stencilRef": 0,
+        "stencilFuncMask": 255,
+        "stencilFail": 7680,
+        "stencilZFail": 7680,
+        "stencilZPass": 7680,
+        "fog": false,
+        "userData": {
+          "renderToDepth": true,
+          "postTonemap": true,
+          "ssaoDisabled": true,
+          "sscsDisabled": true,
+          "ssreflDisabled": true,
+          "ssreflNonPhysical": false,
+          "uuid": "bdee18f3-e8bc-4df0-8a9e-ba4632ca5eaf"
+        }
+      }
+    },
+    "textures": {},
+    "images": {},
+    "shapes": {},
+    "skeletons": {},
+    "animations": {}
+  }
+}
