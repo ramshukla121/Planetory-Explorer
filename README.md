@@ -77,7 +77,7 @@ cd ctruh-planetary-explorer
 
 ## 👨‍💻 Developer
 
-Developed with 💚 by Divya Shiv Pandey
+Developed with 💚 by Ram Shukla
 
 ## 🙏 Acknowledgements
 
