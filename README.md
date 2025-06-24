@@ -1,6 +1,5 @@
 # 🌌 Ctruh Planetary Explorer
 
-![Home Page](https://spherectruh.s3.ap-south-1.amazonaws.com/homepage.png)
 
 ## 🚀 Overview
 
