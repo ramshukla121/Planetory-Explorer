@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-Ctruh Planetary Explorer is an interactive 3D web application that showcases a custom-built sphere geometry with texture mapping and dynamic lighting. This project was developed as a solution to a specific problem statement, demonstrating proficiency in 3D graphics programming using Three.js.
+ Planetary Explorer is an interactive 3D web application that showcases a custom-built sphere geometry with texture mapping and dynamic lighting. This project was developed as a solution to a specific problem statement, demonstrating proficiency in 3D graphics programming using Three.js.
 
 
 
