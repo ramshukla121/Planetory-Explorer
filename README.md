@@ -1,4 +1,4 @@
-# 🌌 Ctruh Planetary Explorer
+# 🌌 Planetary Explorer
 
 ![Screenshot 2025-06-24 171231](https://github.com/user-attachments/assets/3582ce85-15bd-46e3-bef6-feaaa083fe05)
 
